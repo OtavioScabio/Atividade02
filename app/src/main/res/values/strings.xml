@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculador De Trapezio</string>
+    <string name="base_maior">Base Maior</string>
+    <string name="base_menor">Base Menor</string>
+    <string name="altura">Altura</string>
+    <string name="calcula">Calcular</string>
+    <string name="resultado">Área do Trapézio =</string>
+</resources>
